@@ -1,4 +1,4 @@
-#This is a bubble sort program in ruby.
+w#This is a bubble sort program in ruby.
 
 
 =begin
